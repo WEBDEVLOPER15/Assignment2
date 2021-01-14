@@ -1,0 +1,52 @@
+
+.last{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:50 ;
+    padding-bottom:50 ;
+}
+.border1{
+    border-radius: 20px;
+}
+.heading{
+    color: #fabe4c;
+}
+.head1{
+    text-align: left;
+    padding-top: 50px;
+    padding-left:50px ;
+    padding-right:50px ;
+    padding-bottom: 50px;
+}
+.womenjaket{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card{
+    border-radius: 20px;
+}
+.women-card{
+    border: 100;
+    padding-left: 50px;
+    padding-right:50px ;
+}
+
+
+}
+.categories img{
+    width: 100px;
+
+}
+.banner-slide .carousel-item {
+    background-color: #fceae8;
+
+}
+
+.bag-card-footer{
+    background-color: white;
+    border: 50px;
+}
+.digit{
+    color: #fabe4c;
+
+}
